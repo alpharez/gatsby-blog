@@ -11,7 +11,7 @@ By default the ASA has this line configured:
 
 `no logging permit-hostdown`
 
-oing a google search, I find this [support doc](https://www.cisco.com/c/en/us/support/docs/security/pix-500-series-security-appliances/63884-config-asa-00.html).
+Doing a google search, I find this [support doc](https://www.cisco.com/c/en/us/support/docs/security/pix-500-series-security-appliances/63884-config-asa-00.html).
 
 > A server that runs a syslog application is required in order to send syslog messages to an external host. ASA sends syslog on UDP port 514 by default, but protocol and port can be chosen. If TCP is chosen as the logging protocol, this causes the ASA to send syslogs via a TCP connection to the syslog server. If the server is inaccessible, or the TCP connection to the server cannot be established, the ASA will, by default, block <em>ALL</em> new connections. This behavior can be disabled if you enable logging permit-hostdown. See the configuration guide for more information about the logging permit-hostdown command.
 
