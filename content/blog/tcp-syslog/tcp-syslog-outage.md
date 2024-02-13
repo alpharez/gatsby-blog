@@ -9,9 +9,7 @@ Let's say you have a Cisco ASA firewall in your network.  It is configured with 
 
 By default the ASA has this line configured:
 
-{% highlight ruby %}
-no logging permit-hostdown
-{% endhighlight %}
+`no logging permit-hostdown`
 
 oing a google search, I find this [support doc](https://www.cisco.com/c/en/us/support/docs/security/pix-500-series-security-appliances/63884-config-asa-00.html).
 
