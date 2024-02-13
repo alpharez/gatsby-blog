@@ -5,7 +5,7 @@ date:   2022-02-07 06:11:53 -0500
 categories: unix
 ---
 
-![appslow](/assets/images/ziqpaz94gm8a1.jpg)
+![appslow](./ziqpaz94gm8a1.jpg)
 
 I was tasked with figuring out a strange issue.  A web service kept going unavailable for 5-15 minutes at a time.  These outages would occur once per day for 1-3 days and then a month or two later it would happen all over again.  It was impossible to reproduce.  I had to figure this out.
 
