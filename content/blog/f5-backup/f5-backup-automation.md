@@ -5,8 +5,6 @@ date:   2024-02-14 06:44:00 -0500
 categories: devops
 ---
 
-## Intro
-
 Backing up the configs of our [F5 BIG-IP](https://www.f5.com/) appliances was my first [Itential](https://www.itential.com/automation-platform/) automation.  The goal was to backup about 100 F5 BIG-IPs weekly to a file server.
 
 ![flow](./f5-backup.jpg)
