@@ -46,7 +46,50 @@ const Bio = () => {
       {author?.name && (
         <p>
           Written by <Link to="/about/"><strong>{author.name}</strong></Link><br /> {author?.summary || null}
-          {` `}
+          {` `}<br/>
+          <Link to="https://github.com/alpharez">
+            <StaticImage
+              formats={["auto", "webp", "avif"]}
+              src="../images/github.svg"
+              width={25}
+              height={25}
+              quality={95}
+              alt="Github icon"
+            />
+          </Link>
+          &nbsp;
+          <Link to ="https://www.linkedin.com/in/steve3279/">
+            <StaticImage
+              formats={["auto", "webp", "avif"]}
+              src="../images/linkedin.svg"
+              width={25}
+              height={25}
+              quality={95}
+              alt="Linkedin icon"
+            />
+          </Link>
+          &nbsp;
+          <Link to ="https://www.instagram.com/stev_clem/">
+            <StaticImage
+              formats={["auto", "webp", "avif"]}
+              src="../images/instagram.svg"
+              width={25}
+              height={25}
+              quality={95}
+              alt="Instagram icon"
+            />
+          </Link>
+          &nbsp;
+          <Link to ="https://www.facebook.com/steve3279/">
+            <StaticImage
+              formats={["auto", "webp", "avif"]}
+              src="../images/facebook.svg"
+              width={25}
+              height={25}
+              quality={95}
+              alt="Facebook icon"
+            />
+          </Link>            
         </p>
       )}
     </div>
