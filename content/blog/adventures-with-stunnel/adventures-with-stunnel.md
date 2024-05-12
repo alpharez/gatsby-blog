@@ -11,7 +11,7 @@ I was tasked with figuring out a strange issue.  A web service kept going unavai
 
 Was it the Cisco ASA firewall with a firepower intrusion prevention module or the F5 load balancer?  Was it a layer 3 issue, packet loss or network congestion?
 
-We looked at the routers and switches and found no errors on any ports and no congestion.  The firewall did not show any dropped packets.  We setup packet captures on the web servers and the firewall hoping to catch the outage in progress.  Eventually tthe outage re-ocurred and we were able to view a packet capture.
+We looked at the routers and switches and found no errors on any ports and no congestion.  The firewall did not show any dropped packets.  We setup packet captures on the web servers and the firewall hoping to catch the outage in progress.  Eventually the outage re-ocurred and we were able to view a packet capture.
 
 The packet captures showed the outage as a period of lower than normal throughput between clients and the web server, with a large spike at the end of the outage as clients reconnected.  We also noticed increased TCP resets during the outage and right after.
 
