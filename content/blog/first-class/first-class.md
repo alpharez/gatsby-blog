@@ -27,5 +27,5 @@ I am not at that stage yet.  I have some goals that will take a year or two.  I 
 
 I think if I was at the end of life and haven't contributed anything lasting, then that would be something I maybe regretted.  Like a lot of people, I've spent my life building a career and then building a family and helping them, but I haven't spent it building a legacy in networking.  I haven't written RFCs.  I haven't applied computer science to networking in a creative way very much.  If I do nothing else, I am proud of what I have done even if I haven't been creative with it.  But if I can use some of my time left for that, it will be even better.
 
-Jack Harlow actually hit the nail on the head.  I thought I got the lyrics wrong and he was talking about himself, but he was talking about his family.  That's what really matters.  That's what I spent my life on most of all, and I have no regrets.
+Jack Harlow actually hit the nail on the head.   I got the lyrics wrong and thought he was talking about himself, but he was talking about his family.  That's what really matters.  That's what I spent my life on most of all, and I have no regrets.
 
