@@ -10,8 +10,8 @@ This year I have a job that requires two days per week in the office.  Purely re
 In Jack Harlow's song First Class, the lyrics go:
 
 > This lifestyle don't got many downsides  
-'Cept for the lack of time I get 'round my  
-Family, makin' sure they never downsize
+> 'Cept for the lack of time I get 'round my  
+> Family, makin' sure they never downsize
 
 I thought he was rapping "Making shit ain't ever downsized", but I was wrong.  I guess I had "downsized" primed in my head because that's what happened to me.  I thought he was talking about creating and how that is always in demand.
 
