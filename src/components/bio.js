@@ -80,17 +80,6 @@ const Bio = () => {
             />
           </Link>
           &nbsp;
-          <Link to ="https://www.facebook.com/steve3279/">
-            <StaticImage
-              formats={["auto", "webp", "avif"]}
-              src="../images/facebook.svg"
-              width={25}
-              height={25}
-              quality={95}
-              alt="Facebook icon"
-            />
-          </Link>
-          &nbsp;
           <Link to ="https://netpros.online/@steve/">
             <StaticImage
               formats={["auto", "webp", "avif"]}
