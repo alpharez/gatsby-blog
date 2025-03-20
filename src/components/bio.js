@@ -89,7 +89,18 @@ const Bio = () => {
               quality={95}
               alt="Facebook icon"
             />
-          </Link>            
+          </Link>
+          <Link to ="https://netpros.online/@steve/">
+            <StaticImage
+              formats={["auto", "webp", "avif"]}
+              src="../images/mastodon.svg"
+              rel="me"
+              width={25}
+              height={25}
+              quality={95}
+              alt="Mastodon icon"
+            />
+          </Link>
         </p>
       )}
     </div>
