@@ -69,17 +69,6 @@ const Bio = () => {
             />
           </Link>
           &nbsp;
-          <Link to ="https://www.instagram.com/stev_clem/">
-            <StaticImage
-              formats={["auto", "webp", "avif"]}
-              src="../images/instagram.svg"
-              width={25}
-              height={25}
-              quality={95}
-              alt="Instagram icon"
-            />
-          </Link>
-          &nbsp;
           <Link to ="https://netpros.online/@steve/">
             <StaticImage
               formats={["auto", "webp", "avif"]}
