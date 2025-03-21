@@ -69,7 +69,7 @@ const Bio = () => {
             />
           </Link>
           &nbsp;
-          <Link to ="https://netpros.online/@steve/" rel="me">
+          <Link to ="https://netpros.online/@steve/">
             <StaticImage
               formats={["auto", "webp", "avif"]}
               src="../images/logo-purple.svg"
