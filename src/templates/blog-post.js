@@ -19,8 +19,15 @@ const BlogPostTemplate = ({
         itemType="http://schema.org/Article"
       >
         <header>
-          <h1 itemProp="headline">{post.frontmatter.title}</h1>
-          <p>{post.frontmatter.date}</p>
+          <h1 itemProp="headline">
+            {post.frontmatter.title}
+          </h1>
+          <p style={{
+            color: "var(--color-text-muted)",
+            fontSize: "var(--fontSize-0)"
+          }}>
+            {post.frontmatter.date}
+          </p>
         </header>
         <section
           dangerouslySetInnerHTML={{ __html: post.html }}

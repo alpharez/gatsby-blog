@@ -45,40 +45,13 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Written by <Link to="/about/"><strong>{author.name}</strong></Link><br /> {author?.summary || null}
-          {` `}<br/>
-          <Link to="https://github.com/alpharez">
-            <StaticImage
-              formats={["auto", "webp", "avif"]}
-              src="../images/github.svg"
-              width={25}
-              height={25}
-              quality={95}
-              alt="Github icon"
-            />
-          </Link>
-          &nbsp;
-          <Link to ="https://www.linkedin.com/in/steve3279/">
-            <StaticImage
-              formats={["auto", "webp", "avif"]}
-              src="../images/linkedin.svg"
-              width={25}
-              height={25}
-              quality={95}
-              alt="Linkedin icon"
-            />
-          </Link>
-          &nbsp;
-          <Link to ="https://netpros.online/@steve/">
-            <StaticImage
-              formats={["auto", "webp", "avif"]}
-              src="../images/logo-purple.svg"
-              width={25}
-              height={25}
-              quality={95}
-              alt="Mastodon icon"
-            />
-          </Link>
+          Written by <Link to="/about/"><strong>{author.name}</strong></Link>
+          <br />
+          {author?.summary || null}
+          <br />
+          <small style={{ color: "var(--color-text-muted)", fontFamily: "var(--fontFamily-mono)" }}>
+            steve@blog:~$
+          </small>
         </p>
       )}
     </div>
