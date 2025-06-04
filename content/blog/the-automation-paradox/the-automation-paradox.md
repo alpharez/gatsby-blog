@@ -1,6 +1,6 @@
 ---
 title: "The Automation Paradox: Why 80% Automated Still Means 80% Manual Work"
-date: "2025-01-06"
+date: "2025-06-04"
 layout: post
 categories: ["Automation", "Network Engineering", "Operations"]
 ---

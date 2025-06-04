@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Redesigning with a Minimal Hacker Theme"
-date:   2025-06-03 18:25:00 -0500
+title: "Redesigning with a Minimal Hacker Theme"
+date: "2025-06-03 18:25:00"
 categories: design
 ---
 

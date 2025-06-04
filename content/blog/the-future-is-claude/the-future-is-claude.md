@@ -1,6 +1,6 @@
 ---
 title: "The Future is Claude"
-date: "2025-01-03"
+date: "2025-06-03"
 layout: post
 categories: ["AI", "Development", "Thoughts"]
 ---
