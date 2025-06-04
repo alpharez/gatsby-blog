@@ -12,7 +12,7 @@ module.exports = {
     title: `steveclement.me`,
     author: {
       name: `Steve Clement`,
-      summary: `Currently learning about enterprise networks.`,
+      summary: `Passionate about creating innovative network automations that bridge the gap between complex enterprise infrastructure and streamlined operations. Currently exploring cutting-edge automation frameworks and orchestration tools to transform manual network processes into intelligent, self-healing systems.`,
     },
     description: `steveclement blog.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
