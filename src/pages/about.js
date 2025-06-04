@@ -16,6 +16,17 @@ const AboutPage = ({ data, location }) => {
       <p>I am interested in technology, security, AI, and automation.  I like taking on difficult challenges, and I can help solve technology problems.  Please reach out via social media or email if you have any questions or opportunities.</p>
       <a href={"/resume-steve-2025.pdf"}>resume pdf</a>
       <br />
+      <a href="https://www.linkedin.com/in/steve3279/" target="_blank" rel="noopener noreferrer">
+        <StaticImage
+          src="../images/linkedin.svg"
+          alt="LinkedIn"
+          width={24}
+          height={24}
+          style={{ display: "inline", marginRight: "8px" }}
+        />
+        LinkedIn
+      </a>
+      <br />
       <hr />
 
     </Layout>
