@@ -5,8 +5,6 @@ layout: post
 categories: ["Automation", "Network Engineering", "Operations"]
 ---
 
-# The Automation Paradox: Why 80% Automated Still Means 80% Manual Work
-
 *How the Pareto Principle reveals the hidden truth about network automation*
 
 When I first heard about network automation tools promising to eliminate 80% of manual work, I was excited. Finally, we could focus on strategic projects instead of repetitive configuration tasks. But after implementing several automation initiatives across enterprise networks, I've discovered something counterintuitive: even when you successfully automate 80% of your tasks, you still end up spending 80% of your time on manual work.
