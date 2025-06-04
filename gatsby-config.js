@@ -12,7 +12,7 @@ module.exports = {
     title: `steveclement.me`,
     author: {
       name: `Steve Clement`,
-      summary: `Passionate about creating innovative network automations that bridge the gap between complex enterprise infrastructure and streamlined operations. Currently exploring cutting-edge automation frameworks and orchestration tools to transform manual network processes into intelligent, self-healing systems.`,
+      summary: `making network automations`,
     },
     description: `steveclement blog.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
@@ -120,7 +120,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/router.svg`, // This path is relative to the root of the site.
       },
     },
   ],
