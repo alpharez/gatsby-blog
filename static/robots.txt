@@ -1,2 +1,39 @@
 User-agent: *
-Disallow:
+Allow: /
+
+# Block search engines from indexing development/preview paths
+Disallow: /404/
+Disallow: /dev-404-page/
+Disallow: /using-typescript/
+
+# Block bots that don't respect robots.txt anyway
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+# Allow social media crawlers for link previews
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+# Point to your sitemap (you'll want to add gatsby-plugin-sitemap)
+Sitemap: https://steveclement.me/sitemap-index.xml
+
+# Crawl delay to be respectful to your server
+Crawl-delay: 1

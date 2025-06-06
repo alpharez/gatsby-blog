@@ -15,7 +15,7 @@ module.exports = {
       summary: `making network automations`,
     },
     description: `steveclement blog.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://steveclement.me`,
     social: {
       twitter: `steve3279`,
       github: 'alpharez',
@@ -134,6 +134,17 @@ module.exports = {
         // theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/images/router.svg`, // This path is relative to the root of the site.
+      },
+    },
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        excludes: [
+          `/dev-404-page/`,
+          `/404/`,
+          `/404.html`,
+          `/using-typescript/`,
+        ],
       },
     },
   ],
