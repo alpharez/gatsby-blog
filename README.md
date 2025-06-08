@@ -16,3 +16,5 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/alpharez/gatsby-blog.svg)](https://github.com/alpharez/gatsby-blog/commits/main)
 [![GitHub issues](https://img.shields.io/github/issues/alpharez/gatsby-blog.svg)](https://github.com/alpharez/gatsby-blog/issues)
 [![GitHub stars](https://img.shields.io/github/stars/alpharez/gatsby-blog.svg)](https://github.com/alpharez/gatsby-blog/stargazers)
+[![Gatsby](https://img.shields.io/badge/Built%20with-Gatsby-663399.svg)](https://www.gatsbyjs.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
