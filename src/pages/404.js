@@ -40,10 +40,10 @@ const NotFoundPage = ({ data, location }) => {
           overflow: "auto"
         }}>
 {`    ┌─────────────────────┐
-    │  ○ ○ ○    ROUTER   │
+    │  ○ ○ ○    ROUTER    │
     │                     │
     │  [PWR] [SYS] [WAN]  │
-    │   ●     ○     ●    │
+    │   ●     ○     ●     │
     │                     │
     │  LAN  [○][○][○][○]  │
     └─────────────────────┘`}
