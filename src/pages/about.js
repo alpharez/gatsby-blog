@@ -27,6 +27,8 @@ const AboutPage = ({ data, location }) => {
         LinkedIn
       </a>
       <br />
+      <a href="/rss.xml">RSS Feed</a>
+      <br />
       <hr />
 
     </Layout>
