@@ -30,11 +30,13 @@ const NotFoundPage = ({ data, location }) => {
         </ul>
 
         <pre style={{ 
-          backgroundColor: "#f6f8fa", 
+          backgroundColor: "var(--color-background-tertiary)", 
           padding: "16px", 
           borderRadius: "6px",
           fontSize: "14px",
-          fontFamily: "monospace",
+          fontFamily: "var(--fontFamily-mono)",
+          color: "var(--color-text)",
+          border: "1px solid var(--color-border)",
           overflow: "auto"
         }}>
 {`    ┌─────────────────────┐

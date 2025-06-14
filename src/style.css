@@ -406,7 +406,7 @@ a:focus {
   margin-bottom: var(--spacing-8);
   border: 1px solid var(--color-border);
   border-radius: 6px;
-  background: #f8f8f8;
+  background: var(--color-background-tertiary);
   overflow: hidden;
 }
 
@@ -416,7 +416,7 @@ a:focus {
   margin: 0;
   padding: var(--spacing-4);
   overflow-x: auto;
-  font-family: "SF Mono", Monaco, Consolas, "Courier New", monospace;
+  font-family: var(--fontFamily-mono);
   font-size: 14px;
   line-height: 1.6;
   font-weight: 400;
@@ -428,8 +428,8 @@ a:focus {
 
 .gatsby-highlight code {
   background: transparent !important;
-  font-family: "SF Mono", Monaco, Consolas, "Courier New", monospace;
-  color: #333;
+  font-family: var(--fontFamily-mono);
+  color: var(--color-text);
   font-weight: 400;
   text-shadow: none;
   text-decoration: none;
@@ -453,24 +453,24 @@ pre code {
   padding: 0;
   border: none;
   border-radius: 0;
-  color: #333;
+  color: var(--color-text);
   font-size: 14px;
   font-weight: 400;
   text-shadow: none;
   text-decoration: none;
 }
 
-/* Override Prism.js syntax highlighting for light background */
+/* Override Prism.js syntax highlighting for dark background */
 .gatsby-highlight .token.comment,
 .gatsby-highlight .token.prolog,
 .gatsby-highlight .token.doctype,
 .gatsby-highlight .token.cdata {
-  color: #6a737d;
+  color: var(--color-text-muted);
   font-style: italic;
 }
 
 .gatsby-highlight .token.punctuation {
-  color: #333;
+  color: var(--color-accent);
 }
 
 .gatsby-highlight .token.property,
@@ -479,7 +479,7 @@ pre code {
 .gatsby-highlight .token.number,
 .gatsby-highlight .token.constant,
 .gatsby-highlight .token.symbol {
-  color: #005cc5;
+  color: var(--color-secondary);
 }
 
 .gatsby-highlight .token.selector,
@@ -487,30 +487,30 @@ pre code {
 .gatsby-highlight .token.string,
 .gatsby-highlight .token.char,
 .gatsby-highlight .token.builtin {
-  color: #032f62;
+  color: var(--color-primary);
 }
 
 .gatsby-highlight .token.operator,
 .gatsby-highlight .token.entity,
 .gatsby-highlight .token.url {
-  color: #333;
+  color: var(--color-text);
 }
 
 .gatsby-highlight .token.atrule,
 .gatsby-highlight .token.attr-value,
 .gatsby-highlight .token.keyword {
-  color: #d73a49;
+  color: #ff7b72;
 }
 
 .gatsby-highlight .token.function,
 .gatsby-highlight .token.class-name {
-  color: #6f42c1;
+  color: #d2a8ff;
 }
 
 .gatsby-highlight .token.regex,
 .gatsby-highlight .token.important,
 .gatsby-highlight .token.variable {
-  color: #e36209;
+  color: #ffa657;
 }
 
 /* Ensure clean rendering */
