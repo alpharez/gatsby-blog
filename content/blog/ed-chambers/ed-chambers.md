@@ -11,6 +11,8 @@ If you've watched HBO's *Silicon Valley*, you know Jared Dunn as the perpetually
 
 And honestly? We could all use a little Ed Chambers in our lives.
 
+![ed chambers](./ed.png)
+
 ## The Doormat Dilemma
 
 Most of us are more Jared than we'd like to admit. We say "sorry" for things that aren't our fault. We let people interrupt us in meetings. We accept unreasonable deadlines without pushback. We smile politely while someone takes credit for our work.
