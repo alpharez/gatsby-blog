@@ -7,10 +7,6 @@ categories: personal-development, assertiveness
 
 If you've watched HBO's *Silicon Valley*, you know Jared Dunn as the perpetually anxious, people-pleasing assistant who apologizes for existing and speaks in nervous German fairytale metaphors. But you also know Ed Chambers—the confident, aggressive alter ego that emerges when Jared's back is truly against the wall. 
 
-"I'm gonna go home and sleep with my wife!" he declares with sudden swagger, transforming from doormat to dealmaker in seconds.
-
-And honestly? We could all use a little Ed Chambers in our lives.
-
 ![ed chambers](./ed.png)
 
 ## The Doormat Dilemma
