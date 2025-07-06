@@ -9,7 +9,7 @@ The ticket arrives at 2:47 AM. **P1 - CRITICAL: Major application down. Revenue 
 
 Your phone buzzes. Your stomach drops. Every network engineer knows this feeling—the crushing weight of being the first suspect in every outage, the default target when applications fail. The network is guilty until proven innocent, and proving innocence often feels like defusing a bomb while everyone watches the timer tick down.
 
-This is where most of us become Jared Dunn: anxious, apologetic, stammering through explanations while our fight-or-flight response floods our system with cortisol. But what if instead, we could [channel Ed Chambers](/ed-chambers)?
+This is where most of us become Jared Dunn: anxious, apologetic, stammering through explanations while our fight-or-flight response floods our system with cortisol. But what if instead, we could [channel Ed Chambers](/ed-chambers/ed-chambers/)?
 
 ## The Anxiety Epidemic in Network Engineering
 
@@ -26,7 +26,7 @@ Sound familiar? This is exactly where Ed Chambers energy becomes your superpower
 
 ## The Ed Chambers Transformation for Network Engineers
 
-Remember [the transformation](/ed-chambers): Jared goes from apologetic stammering to magnetic confidence in seconds. For network engineers, this isn't about fake bravado—it's about accessing your professional competence with infectious energy.
+Remember [the transformation](/ed-chambers/ed-chambers/): Jared goes from apologetic stammering to magnetic confidence in seconds. For network engineers, this isn't about fake bravado—it's about accessing your professional competence with infectious energy.
 
 Here's what Ed Chambers network engineering looks like:
 
@@ -34,7 +34,7 @@ Here's what Ed Chambers network engineering looks like:
 
 **Try**: "I'm systematically isolating the problem. Let me show you exactly what I'm checking and why. We'll have answers in fifteen minutes."
 
-The difference? [Ed Chambers](/ed-chambers) doesn't just solve problems—he makes everyone feel confident that problems *will* be solved.
+The difference? [Ed Chambers](/ed-chambers/ed-chambers/) doesn't just solve problems—he makes everyone feel confident that problems *will* be solved.
 
 ## The Four Pillars of Ed Chambers Network Confidence
 
