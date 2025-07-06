@@ -5,7 +5,7 @@ date: "2025-06-17 17:45:00"
 categories: personal-development, assertiveness
 ---
 
-If you've watched HBO's *Silicon Valley*, you know Jared Dunn as the perpetually anxious, people-pleasing assistant who apologizes for existing and speaks in nervous German fairytale metaphors. But you also know Ed Chambers—the confident alter ego that emerges when Jared's back is truly against the wall.
+If you've watched HBO's *Silicon Valley*, you know Jared Dunn as the perpetually anxious, people-pleasing assistant who apologizes for existing and speaks in nervous German fairytale metaphors. But you also know Ed Chambers—the confident alter ego that emerges when Jared's back is truly against the wall (Season 4, Episode 7: "The Patent Troll").
 
 One moment he's stammering apologies, the next he's confidently closing deals with a grin and declaring himself "a closer." The transformation is instant.
 
