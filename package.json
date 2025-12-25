@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "name": "gatsby-starter-blog",
   "private": true,
@@ -101,4 +100,3 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   }
 }
->>>>>>> 9f85760 (add new STP blog)
