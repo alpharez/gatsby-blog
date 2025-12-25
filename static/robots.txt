@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 User-agent: *
 Allow: /
 
@@ -37,3 +38,7 @@ Sitemap: https://steveclement.me/sitemap-index.xml
 
 # Crawl delay to be respectful to your server
 Crawl-delay: 1
+=======
+User-agent: *
+Disallow:
+>>>>>>> 9f85760 (add new STP blog)
